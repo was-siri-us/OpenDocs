@@ -11,12 +11,21 @@ This is a Google Docs clone built from scratch using the Quill API with real-tim
 - **Document Update**: Real-time updates and synchronization of document content.
 - **Formatting Shortcuts**: Customizable Keyboard shortcuts for text formatting (e.g., bold, italics, underline).
 
-##Images
+## Images
+
+**Document with shareable link**
 ![Screenshot 2025-01-09 192954](https://github.com/user-attachments/assets/05f8ccc3-3574-40ab-b3d3-c8842f58cb7c)
 
+**Real Time collaboration using socket.io**
+![image](https://github.com/user-attachments/assets/b9847f61-158a-4b3c-b9d0-e6838bc4d68d)
+
+
+**Updating Document Meta**
 ![Screenshot 2025-01-09 193303](https://github.com/user-attachments/assets/0629f187-edde-45d3-a276-09326ac41566)
 
-![image](https://github.com/user-attachments/assets/b9847f61-158a-4b3c-b9d0-e6838bc4d68d)
+**Exporting as pdf/docx**
+![Screenshot 2025-01-09 193216](https://github.com/user-attachments/assets/9ce7193f-05e1-4726-82ea-ce19ce1b06ee)
+
 
 
 
