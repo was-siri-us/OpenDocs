@@ -1,17 +1,9 @@
 # Open Docs
 
-This is a Google Docs clone built from scratch using the Quill API with real-time collaboration features, developed using **Next.js**, **Tailwind CSS**, **Quill**, and **Socket.io**.
+An open-source Google Docs clone built from scratch using the Quill API developed using **Next.js**, **Tailwind CSS**, **Quill**, and **Socket.io**, with features like shareable links, PDF and DOCX export, document preview, and customizable text formatting shortcuts, OpenDocs is designed to provide an intuitive and efficient collaborative writing experience.
 
-## Features
 
-- **Real-Time Collaboration**: Multiple users can edit the same document simultaneously using Socket.io for socket-based communication.
-- **Shareable Links**: Users can generate and share links to documents with others.
-- **Download/Print as PDF**: Users can print or download the document in PDF/DOCX format.
-- **Document Preview**: Dynamic Thumbnail generation.
-- **Document Update**: Real-time updates and synchronization of document content.
-- **Formatting Shortcuts**: Customizable Keyboard shortcuts for text formatting (e.g., bold, italics, underline).
-
-## Images
+ ## Images
 
 **Document with shareable link**
 ![Screenshot 2025-01-09 192954](https://github.com/user-attachments/assets/05f8ccc3-3574-40ab-b3d3-c8842f58cb7c)
@@ -25,6 +17,17 @@ This is a Google Docs clone built from scratch using the Quill API with real-tim
 
 **Exporting as pdf/docx**
 ![Screenshot 2025-01-09 193216](https://github.com/user-attachments/assets/9ce7193f-05e1-4726-82ea-ce19ce1b06ee)
+
+## Features
+
+- **Real-Time Collaboration**: Multiple users can edit the same document simultaneously using Socket.io for socket-based communication.
+- **Shareable Links**: Users can generate and share links to documents with others.
+- **Download/Print as PDF**: Users can print or download the document in PDF/DOCX format.
+- **Document Preview**: Dynamic Thumbnail generation.
+- **Document Update**: Real-time updates and synchronization of document content.
+- **Formatting Shortcuts**: Customizable Keyboard shortcuts for text formatting (e.g., bold, italics, underline).
+
+
 
 
 
