@@ -1,6 +1,6 @@
 # Open Docs
 
-An open-source Google Docs clone built from scratch using the Quill API developed using **Next.js**, **Tailwind CSS**, **Quill**, and **Socket.io**, with features like shareable links, PDF and DOCX export, document preview, and customizable text formatting shortcuts, OpenDocs is designed to provide an intuitive and efficient collaborative writing experience.
+An open-source user-friendly real-time collaborative document editor built from scratch using the Quill API developed using **Next.js**, **Tailwind CSS**, **Quill**, and **Socket.io**, with features like shareable links, PDF and DOCX export, document preview, and customizable text formatting shortcuts, OpenDocs is designed to provide an intuitive and efficient collaborative writing experience.
 
 
  ## Images
