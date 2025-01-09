@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+server/node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Tailwind CSS output
+public/css/
+
+# Quill editor data (e.g., image uploads or other resources)
+public/uploads/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Build and coverage folders
+build/
+coverage/
+
+# npm debug log
+npm-debug.log
+
+# Yarn
+.yarn/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+tmp/
